@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/profile-web-2/static/css/main.a8efb377.css",
+    "main.js": "/profile-web-2/static/js/main.857a0db5.js",
+    "static/media/imgSatu.png": "/profile-web-2/static/media/imgSatu.de82e108701b19d277db.png",
+    "static/media/socialProof.svg": "/profile-web-2/static/media/socialProof.b59c81708ab3d125e19849b1a0f2a19f.svg",
+    "static/media/logo.svg": "/profile-web-2/static/media/logo.b565e0689aa3286c057b43480de56b69.svg",
+    "index.html": "/profile-web-2/index.html",
+    "main.a8efb377.css.map": "/profile-web-2/static/css/main.a8efb377.css.map",
+    "main.857a0db5.js.map": "/profile-web-2/static/js/main.857a0db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8efb377.css",
+    "static/js/main.857a0db5.js"
+  ]
+}
