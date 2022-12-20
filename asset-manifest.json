@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/profile-web-2/static/css/main.a326b996.css",
-    "main.js": "/profile-web-2/static/js/main.935ac513.js",
+    "main.css": "/profile-web-2/static/css/main.43f61607.css",
+    "main.js": "/profile-web-2/static/js/main.82be1651.js",
     "static/media/imgSatu.png": "/profile-web-2/static/media/imgSatu.de82e108701b19d277db.png",
-    "static/media/socialProof.svg": "/profile-web-2/static/media/socialProof.b59c81708ab3d125e19849b1a0f2a19f.svg",
     "static/media/logo.svg": "/profile-web-2/static/media/logo.b565e0689aa3286c057b43480de56b69.svg",
+    "static/media/android.svg": "/profile-web-2/static/media/android.e79cc2863751fddd750d243c98100f93.svg",
+    "static/media/code-square.svg": "/profile-web-2/static/media/code-square.8f6c10f2abdde936f774ab3787cebf79.svg",
+    "static/media/droplet-half.svg": "/profile-web-2/static/media/droplet-half.3036b84cf20bd156c75cafd0e59930cb.svg",
     "index.html": "/profile-web-2/index.html",
-    "main.a326b996.css.map": "/profile-web-2/static/css/main.a326b996.css.map",
-    "main.935ac513.js.map": "/profile-web-2/static/js/main.935ac513.js.map"
+    "main.43f61607.css.map": "/profile-web-2/static/css/main.43f61607.css.map",
+    "main.82be1651.js.map": "/profile-web-2/static/js/main.82be1651.js.map"
   },
   "entrypoints": [
-    "static/css/main.a326b996.css",
-    "static/js/main.935ac513.js"
+    "static/css/main.43f61607.css",
+    "static/js/main.82be1651.js"
   ]
 }
