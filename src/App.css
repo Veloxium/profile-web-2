@@ -1,10 +1,19 @@
 .primary{
   color: #FD8791;
 }
+.bg-primary{
+  background-color: #FD8791;
+}
+.primary-h{
+  color: #FD8791;
+}
 .secondary{
   color: #FF997A;
 }
-.primary:hover{
+.bg2{
+  background-color: #212121;
+}
+.primary-h:hover{
   color: #FFF;
   transition: ease-in 0.3s;
 }
@@ -14,9 +23,7 @@
 .bg{
   background-color: #191919;
 }
-:active{
-  color: #FFF;
-}
+
 
 
 /*Navbar CSS*/
@@ -60,6 +67,41 @@
   border-radius: 25px;
   margin: 5px 0px;
 }
+
+/* Button */
+.btn{
+  border: 3px solid #FD8791;
+  display: inline-flex;
+  padding: 2px 6px;
+  transition: ease-in 0.3s;
+}
+.btn:hover{
+  background-color: #FF997A;
+  color: #FFF;
+  border: 3px solid #FF997A;
+}
+
+/* Detail */
+.br-sq{
+  border: 5px solid #191919;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width:750px) {
   #menu-off{

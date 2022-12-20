@@ -12,9 +12,9 @@ const Header = () => {
 
   return (
     <div className="bg fixed top-0 w-full">
-      <div className="navbar">
+      <div className="navbar lg:h-[70px]">
         <div>
-          <Link to="/">
+          <Link to="/profile-web-2">
             <img src={Logo} alt="logo" className="logo" />
           </Link>
         </div>
@@ -23,13 +23,13 @@ const Header = () => {
             id="menu-off"
             className="menu flex flex-row justify-end align-middle gap-5 text-lg font-semibold tracking-wide "
           >
-            <NavLink to="/" className="primary">
+            <NavLink to="/profile-web-2" className="primary-h">
               Home
             </NavLink>
-            <NavLink to="../portofolio" className="primary">
+            <NavLink to="/portofolio" className="primary-h">
               Portofolio
             </NavLink>
-            <NavLink to="../contact" className="primary">
+            <NavLink to="/contact" className="primary-h">
               Contact
             </NavLink>
             <span className="primary">|</span>
@@ -64,13 +64,13 @@ const Header = () => {
         }
       >
         <div className="menu flex text-center flex-col align-middle gap-5 text-lg font-semibold tracking-wide h-[100vh] pt-[100px]">
-          <NavLink to="/" className="primary" >
+          <NavLink to="/profile-web-2" className="primary-h">
             Home
           </NavLink>
-          <NavLink to="../portofolio" className="primary">
+          <NavLink to="/portofolio" className="primary-h">
             Portofolio
           </NavLink>
-          <NavLink to="../contact" className="primary">
+          <NavLink to="/contact" className="primary-h">
             Contact
           </NavLink>
           <span className="primary">-</span>
