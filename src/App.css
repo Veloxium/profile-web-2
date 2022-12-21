@@ -1,3 +1,6 @@
+body{
+  min-width: 320px;
+}
 .primary{
   color: #FD8791;
 }
@@ -10,8 +13,17 @@
 .secondary{
   color: #FF997A;
 }
+.flower{
+  color: #D61C4E;
+}
+.profile{
+  color: #35858B;
+}
 .bg2{
   background-color: #212121;
+}
+.bg3{
+  background: linear-gradient(180deg, #FF997A 0%, #FD8791 39.9%);
 }
 .primary-h:hover{
   color: #FFF;
@@ -84,6 +96,11 @@
 /* Detail */
 .br-sq{
   border: 5px solid #191919;
+}
+
+/* Project */
+.web{
+  box-shadow: 4px 4px 5px 0px rgba(255,255,255,0.7);
 }
 
 

@@ -4,7 +4,7 @@ import Android from "../../assets/android.svg";
 
 function Detail() {
   return (
-    <div className="bg p-5">
+    <div className="bg p-5 md:py-[100px]">
       <div className="bg2 rounded-lg flex flex-col justify-center text-center p-5 lg:mx-[50px]">
           <h1 className="primary text-2xl font-semibold">What I am Great At</h1>
           <p className="text-white">

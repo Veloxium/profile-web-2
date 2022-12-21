@@ -9,7 +9,7 @@ const Header = () => {
   const active = () => {
     setNav(!nav);
   };
-
+ 
   return (
     <div className="bg fixed top-0 w-full">
       <div className="navbar lg:h-[70px]">
@@ -64,13 +64,13 @@ const Header = () => {
         }
       >
         <div className="menu flex text-center flex-col align-middle gap-5 text-lg font-semibold tracking-wide h-[100vh] pt-[100px]">
-          <NavLink to="/profile-web-2" className="primary-h">
+          <NavLink to="/profile-web-2" className="primary-h" onClick={active}>
             Home
           </NavLink>
-          <NavLink to="/portofolio" className="primary-h">
+          <NavLink to="/portofolio" className="primary-h" onClick={active}>
             Portofolio
           </NavLink>
-          <NavLink to="/contact" className="primary-h">
+          <NavLink to="/contact" className="primary-h" onClick={active}>
             Contact
           </NavLink>
           <span className="primary">-</span>
